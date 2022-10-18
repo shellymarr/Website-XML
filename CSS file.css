@@ -1,0 +1,76 @@
+body{
+	margin:0;
+	padding:0;
+	color: #fff; 
+	background: url(http://45.media.tumblr.com/tumblr_m83x9eI2GX1qbhetko1_500.gif) no-repeat; 
+	background-size:cover; 
+}
+
+.first{
+	width:750px;
+	background:rgba(0,0,0,0.5);
+	padding:40px; 
+	text-align: center; 
+	margin: auto; 
+	margin-top: 10%; 
+	color: white; 
+	font-family: 'Century Gothic', sans-serif; 
+}
+.first-img{
+	border-radius:50%; 
+	width:200px; 
+	height:200px; 
+}
+.first h1{
+	font-size:40px; 
+	letter-spacing:4px;
+	font-weight:100; 
+} 
+.first h2{ 
+	font-size:15px;
+	letter-spacing:0px; 
+	font-weight:200;
+}
+.first h3{
+	font-size:20px; 
+	letter-spacing:0px;
+	font-weight:100; 
+}
+.first h4{ 
+	font-size:20px;
+	letter-spacing:0px; 
+	font-weight:200;
+}
+.first h5{ 
+	font-size:20px;
+	letter-spacing:0px; 
+	font-weight:200;
+}
+.first h6{ 
+	font-size:20px;
+	letter-spacing:0px; 
+	font-weight:200;
+}
+.first p{ 
+	text-align:auto;
+	font-size:20px;
+	letter-spacing:0px; 
+	font-weight:200;
+}
+nav ul li{
+	list-style: none;
+	display:inline-block;
+	margin-right:30px;
+}	
+nav ul li a{
+	text-decoration:none;
+	color: #fff; 
+	font-size: 20px;
+}
+.links{ 
+	text-decoration:none;
+	color: #fff; 
+	font-size: 20px;
+}
+
+	
